@@ -8,7 +8,7 @@ Alireza is a Frontend Engineer with over 6 years of experience building websites
 
 * ✉️  You can contact me at [alireza7612@gmail.com](mailto:alireza7612@gmail.com)
 * 🚀  I'm currently working on [Giveth](http://giveth.io)
-* 🧠  I'm learning Testing Frontend Applications
+* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Open source Web3 Projects
 
 ### Skills

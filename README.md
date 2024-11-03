@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Developer(React) | Web3 Enthusiast
 --------------------------------------------------
 
-Alireza is a Frontend Engineer with over 6 years of experience building websites and web applications. Using JavaScript, Typescript, Graphql, HTML, CSS, Styled Components, SCSS, React.js, Next.js, Vue.js, Nuxt.js and Socket.io.
+Alireza is a Frontend Engineer with over 7 years of experience building websites and web applications. Using JavaScript, Typescript, Graphql, HTML, CSS, Styled Components, SCSS, React.js, Next.js, Vue.js, Nuxt.js and Socket.io.
 
 * ✉️  You can contact me at [alireza7612@gmail.com](mailto:alireza7612@gmail.com)
 * 🚀  I'm currently working on [Giveth](http://giveth.io)

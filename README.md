@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alireza Sharifpour
 ==========================================================================================================================================
 
-Senior Frontend Developer(React) | Web3 Enthusiast
+Full Stack Web3 Engineer
 --------------------------------------------------
 
-Alireza is a Frontend Engineer with over 7 years of experience building websites and web applications. Using JavaScript, Typescript, Graphql, HTML, CSS, Styled Components, SCSS, React.js, Next.js, Vue.js, Nuxt.js and Socket.io.
+Full Stack Web3 Engineer with 8 years of web development experience. Specialized in building decentralized applications since 2020, implementing frontend solutions with blockchain technologies.
+Proficient in React.js, Next.js, TypeScript, and Web3 technologies, with backend development capabilities.
 
 * ✉️  You can contact me at [alireza7612@gmail.com](mailto:alireza7612@gmail.com)
 * 🚀  I'm currently working on [Giveth](http://giveth.io)
